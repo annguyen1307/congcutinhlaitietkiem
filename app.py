@@ -4,7 +4,7 @@ import streamlit as st
 # CẤU HÌNH TRANG
 # =========================
 st.set_page_config(
-    page_title="Tính lãi gửi tiết kiệm",
+    page_title="Công cụ tính lãi tiết kiệm_Nguyễn Ngọc Xuân An",
     page_icon="💰",
     layout="centered"
 )
