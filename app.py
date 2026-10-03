@@ -59,6 +59,7 @@ def format_money(value):
 # TIÊU ĐỀ
 # =========================
 st.markdown(
+    st.image("logo.jpg")
     '<h1 class="main-title">💰 TÍNH LÃI GỬI TIẾT KIỆM_Nguyễn Ngọc Xuân An</h1>',
     unsafe_allow_html=True
 )
