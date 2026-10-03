@@ -8,6 +8,7 @@ st.set_page_config(
     page_icon="💰",
     layout="centered"
 )
+st.image("logo.jpg", width=150)
 
 # =========================
 # CSS
